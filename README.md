@@ -116,4 +116,4 @@ track.has_flag(UserInfo.IS_VERIFIED)  # True
 ```
 
 
-This article was inspired by cassiobotaro.de
+This article was inspired by cassiobotaro.dev
